@@ -316,6 +316,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 > Integration with social media platforms and content sharing services. Enables interaction with social networks and content platforms.
 
 - <img src="https://cdn.simpleicons.org/bluesky/0085FF" height="14"/> [BlueSky](https://github.com/keturiosakys/bluesky-context-server) - Bluesky API integration for querying and searching feeds and posts
+- <img src="https://publora.com/favicon.ico" height="14"/> [Publora](https://github.com/publora/mcp-server)<sup><sup>⭐</sup></sup> - Publish and schedule posts across 10 social platforms (LinkedIn, Instagram, TikTok, Threads, X, Bluesky, Mastodon, Telegram, Facebook, YouTube) and read LinkedIn analytics.
 - <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/anaisbetts/mcp-youtube)<sup><sup>1</sup></sup> - YouTube integration using yt-dlp for subtitle downloading and video analysis
 - <img src="https://cdn.simpleicons.org/youtube/FF0000" height="14"/> [YouTube](https://github.com/kimtaeyoon83/mcp-server-youtube-transcript)<sup><sup>2</sup></sup> - Alternative implementation for fetching YouTube subtitles and transcripts
 - <img src="https://cdn.simpleicons.org/spotify/1DB954" height="14"/> [Spotify](https://github.com/varunneal/spotify-mcp) - Connects with Spotify for playback control and track/album/artist/playlist management.
